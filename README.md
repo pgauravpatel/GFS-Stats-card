@@ -11,8 +11,7 @@ API to get count of total problems solved on [GeeksForGeeks](https://practice.ge
 
 > `node.js`  `express`  `cheerio`
 
-## Preview
-<p align="center"> <a href="https://www.geeksforgeeks.org/user/nikhilpal2705/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" alt="GFG stats"/></a></p>
+
 
 # How to use 
 - To show in markdown (Github profile) simply copy below code and replace **`<YOUR_USERNAME>`** with your GeeksForGeeks UserName
@@ -21,7 +20,7 @@ API to get count of total problems solved on [GeeksForGeeks](https://practice.ge
 
 > That's it, if you get any error , make sure you have solved at least 1 problem on GFG and cross check username and link 
 
-> Send me message if any error occur [LinkedIn](https://www.linkedin.com/in/nikhilpal2705/)
+
 
 #### Copy this code 👇🏻
 ```
